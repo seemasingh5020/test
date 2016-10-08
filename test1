@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conii.h>
+
+void main()
+{
+int a,b,c;
+a=10;
+b=20;
+c=a+b;
+cout<<"result is"<<c;
+}
